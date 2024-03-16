@@ -4,3 +4,5 @@
 #### 4
 ##### 5
 ###### 6
+
+![Image of funny coding joke](https://i.pinimg.com/236x/de/a7/3a/dea73a924fc9706e7b2d1e0496daef54.jpg)
